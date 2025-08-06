@@ -1,0 +1,9 @@
+kafka-python
+Faker
+pandas
+sqlalchemy
+psycopg2-binary
+apache-airflow
+pyspark
+boto3
+python-dotenv
