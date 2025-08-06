@@ -9,6 +9,8 @@ A full-stack data pipeline for real-time transaction monitoring using Kafka, Spa
 - `batch/`: Daily ETL jobs to load into data warehouse
 - `airflow/`: DAG to schedule batch jobs
 - `warehouse/`: PostgreSQL schema
+- `docker/`: contains both of the necessary files to setup Docker
+- `data/`: contains two empty files that will be populated with data whenever the project is ran
 
 ## Requirements
 ```bash
